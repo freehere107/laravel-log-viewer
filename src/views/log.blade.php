@@ -7,7 +7,7 @@
     <title>Laravel log viewer</title>
 
     <!-- Bootstrap -->
-    <link rel="stylesheet" href="//cdn.bootcss.com/bootstrap/3.3.1/css/bootstrap-theme.css">
+    <link rel="stylesheet" href="//cdn.bootcss.com/bootstrap/3.3.1/css/bootstrap.css">
     <link rel="stylesheet" href="//cdn.bootcss.com/datatables/1.10.12/css/dataTables.bootstrap.min.css">
 
 
